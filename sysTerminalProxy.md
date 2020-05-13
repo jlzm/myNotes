@@ -16,7 +16,7 @@
 1.  cmd:
     -   set http_proxy=socks5://127.0.0.1:prot
     -   set https_proxy=socks5://127.0.0.1:prot
-        2.bash:
+2.  bash:
     -   export http_proxy=socks5://127.0.0.1:prot
     -   export https_proxy=socks5://127.0.0.1:prot
 
