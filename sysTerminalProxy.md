@@ -31,4 +31,8 @@
 
 ## Linux
 
-some like Windos **bash**
+### some like Windos **bash**
+
+## verify connection
+
+-   curl -vv http://www.google.com
