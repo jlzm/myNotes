@@ -31,4 +31,4 @@
 
 ## Linux
 
-some like Windos **export**
+some like Windos **bash**
