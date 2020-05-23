@@ -1,4 +1,4 @@
-# Hexadecimal transparency
+# Hexadecimal Transparency
     100% — FF
     99% — FC
     98% — FA
