@@ -11,6 +11,12 @@
     sudo apt-get update
     sudo apt-get install code # or code-insiders
 
+-   learn
+    <https://developer.aliyun.com/article/759454>
+
+-   bugfix
+    <https://github.com/microsoft/WSL/issues/5125>
+
 ## chrome
 
     wget -q -O - https://dl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
