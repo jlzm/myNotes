@@ -36,6 +36,29 @@
     [ -f /usr/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh ] && source /usr/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
     EOF
 
+## plugina
+
+### autojump
+    apt install autojump
+    vim ~/.zshrc
+    plugins add autojump
+    source ~/.zshrc
+    use: j dir/
+
+### zsh-autosuggestion
+    git clone git://github.com/zsh-users/zsh-autosuggestions $ZSH_CUSTOM/plugins/zsh-autosuggestions
+    vim ~/.zshrc
+    plugins add zsh-autosuggestions
+    source ~/.zshrc
+
+### zsh-syntax-highlighting
+    git clone git://github.com/zsh-users/zsh-syntax-highlighting $ZSH_CUSTOM/plugins/zsh-syntax-highlighting
+    vim ~/.zshrc
+    plugins add zsh-syntax-highlighting
+    source ~/.zshrc
+
+
+
 # other
 
 ## bugfix chinese font rendering
