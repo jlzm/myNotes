@@ -39,6 +39,7 @@
 ## plugina
 
 ### autojump
+
     apt install autojump
     vim ~/.zshrc
     plugins add autojump
@@ -46,18 +47,18 @@
     use: j dir/
 
 ### zsh-autosuggestion
+
     git clone git://github.com/zsh-users/zsh-autosuggestions $ZSH_CUSTOM/plugins/zsh-autosuggestions
     vim ~/.zshrc
     plugins add zsh-autosuggestions
     source ~/.zshrc
 
 ### zsh-syntax-highlighting
+
     git clone git://github.com/zsh-users/zsh-syntax-highlighting $ZSH_CUSTOM/plugins/zsh-syntax-highlighting
     vim ~/.zshrc
     plugins add zsh-syntax-highlighting
     source ~/.zshrc
-
-
 
 # other
 
